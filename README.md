@@ -59,6 +59,8 @@ Base sólida em lógica de programação, programação orientada a objetos (POO
   </li>
 </ul>
 
+<a href="https://www.google.com" target="_blank">Abrir Google em nova aba</a>
+
 ---
 
 ## 📫 Contato
