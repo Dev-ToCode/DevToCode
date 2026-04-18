@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Luís!
+# 👋 Olá, eu sou o Luis!
 
 💻 Desenvolvedor Backend Jr, focado em Node.js e TypeScript.  
 🚀 Construindo APIs REST e evoluindo constantemente através de projetos práticos.  
@@ -6,22 +6,22 @@
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🚀 Tecnologias e ferramentas
 
-### Backend
-- Node.js  
-- TypeScript  
-- Express  
-- MySQL  
+### 🧠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Fundamentos Web
-- JavaScript  
-- HTML  
-- CSS  
+### 🌐 Fundamentos Web
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Ferramentas
-- Git  
-- GitHub  
+### 🛠️ Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -31,42 +31,18 @@
 
 ---
 
-## 📚 Formação
+## 🎓 Cursos e Certificados
 
-Base sólida em lógica de programação, programação orientada a objetos (POO) e fundamentos de desenvolvimento de software.
-
----
-
-<h2>🎓 Cursos e Certificados</h2>
-
-<ul>
-  <li>
-    <a href="https://www.treinaweb.com.br/certificado/2IRTCKUR43AO" target="_blank">
-      Formação Base para Desenvolvedor — TreinaWeb
-    </a>
-  </li>
-  
-  <li>
-    <a href="https://www.treinaweb.com.br/certificado/21TTU4U9FMAC" target="_blank">
-      Git - Fundamentos — TreinaWeb
-    </a>
-  </li>
-  
-  <li>
-    <a href="https://www.treinaweb.com.br/certificado/YAXTGAFO0WIC" target="_blank">
-      Programação Orientada a Objetos (POO) — TreinaWeb
-    </a>
-  </li>
-</ul>
-
-<a href="https://www.google.com" target="_blank">Abrir Google em nova aba</a>
+- [Formação Base para Desenvolvedor — TreinaWeb](https://www.treinaweb.com.br/certificado/2IRTCKUR43AO)
+- [Git - Fundamentos — TreinaWeb](https://www.treinaweb.com.br/certificado/21TTU4U9FMAC)
+- [Programação Orientada a Objetos (POO) — TreinaWeb](https://www.treinaweb.com.br/certificado/YAXTGAFO0WIC)
 
 ---
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/seu-link  
-- 📧 Email: gerson_coelho@live.com  
+- 💼 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/gersonluis/)
+- 📧 devtocode.dev@gmail.com  
 
 ---
 
