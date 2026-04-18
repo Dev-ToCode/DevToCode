@@ -37,11 +37,13 @@ Base sólida em lógica de programação, programação orientada a objetos (POO
 
 ---
 
-## 🎓 Cursos
+## 🎓 Cursos e Certificados
 
-- Base para Desenvolvedor — TreinaWeb  
-- Lógica de Programação — TreinaWeb  
-- Programação Orientada a Objetos — TreinaWeb  
+- [Formação Base para Desenvolvedor — TreinaWeb](https://www.treinaweb.com.br/certificado/2IRTCKUR43AO)
+
+- [Git - Fundamentos — TreinaWeb](https://www.treinaweb.com.br/certificado/21TTU4U9FMAC)
+
+- [Programação Orientada a Objetos (POO) — TreinaWeb](https://www.treinaweb.com.br/certificado/YAXTGAFO0WIC)
 
 ---
 
